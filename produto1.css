@@ -1,3 +1,75 @@
 body{
     background-color: bisque;
 }
+nav li{
+    display:inline;
+    margin: 0 0 0 15px;
+
+}
+    .logo {
+        width: 20%;
+        max-width: 600px;
+        display: block;
+        margin: 0px;
+        border-radius: 25px;
+        }
+      
+      Header {
+        background: #df4949;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px 0 10px 30px;
+        font-size: 16px;
+        font-weight: 700;
+        color: #06080e;
+        white-space: nowrap;
+      }
+      
+      nav li {
+        display: inline;
+        margin: 0 0 0 1 px;
+      }
+      
+      nav a {
+        text-transform: uppercase;
+        color:  #000000;
+        font-weight: bold;
+        font-size: 22px;
+        text-decoration: none;
+      }
+      
+      nav {
+        position: absolute;
+        top: 110px;
+        right: 0;
+      }
+      
+      .caixa {
+        position: relative;
+        width: 940px;
+        right: 0 auto;
+        left: 90px;
+      }
+
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    right: 50px;
+    left: 10px;
+}
+.banner {
+    width: 10%;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
